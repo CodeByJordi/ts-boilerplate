@@ -1,10 +1,11 @@
 {
-  "name": "ts-template",
+  "name": "ts-boilerplate",
   "version": "1.0.0",
   "description": "Template for Typescript NodeJS projects.",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/CodeByJordi/ts-boilerplate/issues"
   },
-  "homepage": "https://github.com/CodeByJordi/ts-boilerplate#readme"
+  "homepage": "https://github.com/CodeByJordi/ts-boilerplate#readme",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
 }
