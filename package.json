@@ -1,0 +1,19 @@
+{
+  "name": "ts-template",
+  "version": "1.0.0",
+  "description": "Template for Typescript NodeJS projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeByJordi/ts-boilerplate.git"
+  },
+  "author": "Jordi Jacobs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeByJordi/ts-boilerplate/issues"
+  },
+  "homepage": "https://github.com/CodeByJordi/ts-boilerplate#readme"
+}
